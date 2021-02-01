@@ -84,7 +84,7 @@ $(window).on('load', function() {
 	--------------------*/
 	if($('#typed-text').length > 0 ) {
 		var typed2 = new Typed('#typed-text', {
-		   	strings: ["I'M Dwi Ramadanu", "-SGBTeam Cirebon-" , "I Don't Need School", "I Have Google"],
+		   	strings: ["I'M Hajijin Amri", "-SMKN 1 CIREBON-" , "TEKNIK KOMPUTER", "DAN JARINGAN"],
 			typeSpeed: 150,
 			loop:true,
 			backDelay: 2000
