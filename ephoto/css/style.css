@@ -1,0 +1,24 @@
+* {
+    font-family: 'Comfortaa', cursive;
+}
+.form-box {
+    width: 50%;
+    padding: 0.75rem;
+    border: 3px solid black;
+    box-shadow: 0.6rem 0.6rem 0 #222;
+    border-radius: 0.25rem;
+    background-color: #f2f7f5;
+    margin: auto;
+}
+
+.submit-button{
+    background-color: #8bd3dd;
+    border: 2px solid black;
+    box-shadow: 0.5rem 0.5rem 0 #222;
+}
+
+@media only screen and (max-width: 600px) {
+    .form-box {
+        width: 80%;
+    }
+}
